@@ -11,7 +11,9 @@ This repository provides tooling for the analysis of AWS DeepRacer training expe
 
 1. Clone or download this repository to your local machine.
 2. Install the required Python dependencies using **pip**.
-`pip install --upgrade deepracer-utils>=0.9`
+```
+pip install --upgrade deepracer-utils>=0.9
+```
 3. Launch the jupyter notebook.
 
 # Resources
