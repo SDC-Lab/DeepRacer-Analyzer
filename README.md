@@ -16,7 +16,7 @@ To use the DeepRacer-Analyzer, you will need the following:
 2. Python 3 installed.
 3. Jupyter notebook installed.
 
-## Setup
+## Getting started
 
 1. Clone or download this repository to your local machine.
 2. Install the required Python dependencies using **pip**.
